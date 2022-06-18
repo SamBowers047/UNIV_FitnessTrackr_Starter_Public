@@ -10,3 +10,5 @@ const router = express.Router();
 // GET /api/users/:username/routines
 
 module.exports = router;
+
+
